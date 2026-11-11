@@ -35,7 +35,8 @@ The dashboard provides insights into sales, total orders, average delivery time,
 ## Project Files
 - Dashboard: Power BI (.pbix) file
 - Dataset: Excel (.xlsx) file
-- Screenshots: Dashboard preview
+- Screenshots: <img width="1343" height="715" alt="food_delivery_dashboard" src="https://github.com/user-attachments/assets/36d72135-de8a-42a3-aca7-b954b7cfd2f6" />
+
 ## Project Objective
 To analyze food delivery business performance
 and generate meaningful insights using interactive
